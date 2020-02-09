@@ -26,7 +26,7 @@ Guidelines for participation
 -   Accept that some people want to watch what is going on before
     jumping in. This doesn’t mean you have to keep them hanging around
     forever. After a while, you may un-enroll people who don’t add any
-    value to the community. In our Peeragogy project, we’ve asked people
+    value to the community. In our Peeragogy Project, we’ve asked people
     to explicitly re-enroll several times. Most do renew; some leave.
 -   Accept that people may only contribute a little: if this
     contribution is good it will add value to the whole.
