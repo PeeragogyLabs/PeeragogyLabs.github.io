@@ -5,39 +5,45 @@ title: Introduction
 - Use the existing summaries to write a summary of the whole book
  - https://docs.google.com/document/d/1Zcsuvmky5cQmWlglO6lK1HYWsGR3xwlMePls-klLNZg/edit
 - Write a short version of the handbook, following the outline below - this can be the "starter pack"
-- Add a list of translations to the introduction here (Charlie)
 - Other outcomes including papers, pointers to citations of this stuff in the literature...
 - If you learn nothing else, what is one thing you can learn and use right away?
- 
-# Introduce the full outline of book
+- Add a list of translations to the introduction here (Charlie)
 
-* 1. *Convene*. Review the intention: what do we expect to learn or make together? **Problem**
-  *  _Mini-introduction to Peeragogy._
-    * *What problem does peeragogy solve? Some history, where did the project come from?*
-      - maybe putting a map in, to give some context -- like a concept map (ask Howard, find others) 
-    * Our intention is to write a "How To Handbook" (how does this help address the problem).
-    * How we have put things together here and how we are using the content...
-    * Initial content could be based on [Peeragogy](http://peeragogy.github.io/pattern-peeragogy.html) pattern
-    * Or on the [Starter Pack](https://docs.google.com/document/d/1w2JZhpkrYYKknpJSSJgz23PPYxI31Cu1eWvw8I9ZraM/edit).
-    * Could also incorporate a summary of the "Convene" section.
-* 2. *Organize*. Establish what is happening: what and how are we learning?
-  * Incorporate a summary of the "Organize" section
-  * [Newcomer](https://hackmd.io/LvcaTX1pTESFTtAMXK8lIg)
-  * [Heartbeat](https://hackmd.io/Z-ME-AU2R-203F31uig12A)
-* 3. *Cooperate*. What are some different perspectives on what’s happening?
-  * _Incorporate a summary of the "Cooperate" section_
-  * [Carrying Capacity](https://hackmd.io/1n-ksWSyQvOw-x6vomBohg) - _what is a different term for this_ Ideal Size?
-  * [Reduce, Reuse, Recyle](https://hackmd.io/hEZiRQPkS02BZzwtWJcsKQ) 
-* 4. *Assess*. What did we learn or change?
-  * Incorporate a summary of the "Assess" section
-  * [Landscape](https://hackmd.io/tnyTuPcaR_GtHZNnYcZyxA)
-  * [Scrapbook](https://hackmd.io/Hz9Q3NU8Rgittp9b6oezHw) - where are we going to put our random thoughts! This can be more historical?
-* 5. *Share*. What else should we change going forward? **What's Next**
-  * Come up with a "Share" strategy and summarize it here. 
-  * [Wrapper](https://hackmd.io/q5K5GstZTsqXTHrCRyYQJA)
-  * [Specific Project](https://hackmd.io/xV24x23vQ2G1ScRHXBdMFA)
-* 6. Index of Keywords from across the book
-  * Keywords, glossary, similar terms and fields. Automatically generate this once we know what the keywords are.
+Spanish
+
+Pedagogía de pares
+Paola Ricaurte Quijano
+http://www.editorialuoc.cat/educacion-medios-digitales-y-cultura-de-la-participacion
+
+Pedagogía de pares: «peeragogy», el procomún, laboratorios ciudadanos y cultura digital en abierto
+http://fernandosantamaria.com/blog/paragogia-pedagogia-de-los-pares-o-iguales/
+
+Pedagogía de pares y producción colectiva de conocimiento Artículo adaptado por el equipo de Pedagogía de pares para Wikipedia en el aula en conjunto con Educ.ar y WMAR. 
+https://cdn.educ.ar/dinamico/UnidadHtml__get__d840bf7a-c70e-4e9a-826c-9879acbf0d38/pdf/pedagogia_de_pares.pdf
+via https://www.educ.ar/recursos/129448/wikipedia-en-el-aula/fullscreen/fullscreen
+
+Italian 
+
+Handbook
+https://it.m.wikibooks.org/wiki/Peeragogia 
+
+Paragogy Paper
+https://web.archive.org/web/20121219234622/http://campus.ftacademy.org:80/community/mod/file/download.php?file_guid=12886
+
+French 
+
+Handbook 
+https://fr.m.wikibooks.org/wiki/Peeragogie_Manuel_V2 
+
+bahasa Indonesia
+
+Handbook
+https://id.wikibooks.org/wiki/Peeragogy_Handbook_V1.0
+
+Russian
+
+Paragogy Paper
+https://web.archive.org/web/20160306050517/http://www.connectedlearning.ru/home/ravnogogika/1st-paper
 
 # Pointer to Reading Group version:
 
@@ -52,8 +58,9 @@ Welcome to the *Peeragogy Handbook*! We want to kick things off with a
 candid confession: we’re not going to pretend that this book is perfect.
 In fact, it’s not an ordinary book at all.
 
-The adventure starts when you get out your pen or pencil, or mouse and keyboard, and begin marking it
-up. It gets kicked into high gear when you join *Peeragogy in Action*.
+The adventure starts when you get out your pen or pencil, or mouse and keyboard,
+and begin marking it up. It gets kicked into high gear when you join
+*Peeragogy in Action*.
 
 You’ll find a lot of friendly support as you write, draw, or dance your
 own peeragogical adventure. But first, what is *peeragogy*?
@@ -89,8 +96,8 @@ We’re always interested in new use cases, tricky problems, and
 interesting questions. In fact, our view is that any question is a good
 question.
 
-In Section 4 of the book, in the Scrapbook pattern, we have a list of some of the ways in which the current edition of the Handbook
-is *not perfect*.
+In Section 4 of the book, in the Scrapbook pattern, we have a list of
+some of the ways in which the current edition of the Handbook is *not perfect*.
 
 ## References
 
