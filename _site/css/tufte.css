@@ -416,6 +416,10 @@ section {
   padding-top: 1rem;
   padding-bottom: 1rem; }
 
+.annotator-toolbar ol,ul {
+    list-style: none !important;
+}
+
 ul, ol {
   width: 50%;
   -webkit-padding-start: 5%;
@@ -429,7 +433,17 @@ ul > li:before {
   margin-left: -1em; }
 
 ul > li {
-  padding-left: 1em; }
+    padding-left: 1em; }
+
+.annotator-toolbar ul > li:before {
+      content: none !important;
+      /* en dash */
+      position: absolute;
+      margin-left: 0em !important; 
+}
+
+.annotator-toolbar ul > li {
+    padding-left: 0em; }
 
 figure, figure img.maincolumn {
   max-width: 55%;

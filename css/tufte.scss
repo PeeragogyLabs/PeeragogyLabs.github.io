@@ -290,22 +290,30 @@ article { position: relative;
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
-
-ul,ol { width: 50%;
-     -webkit-padding-start: 5%;
-     -webkit-padding-end: 5%;
-     list-style-type: none; }
+ul, ol {
+  width: 50%;
+  -webkit-padding-start: 5%;
+  -webkit-padding-end: 5%;
+  list-style-type: none; }
 
 ul > li:before {
-  content: "–"; /* en dash */
+  content: "–";
+  /* en dash */
   position: absolute;
-  margin-left: -1em;
-}
+  margin-left: -1em; }
 
 ul > li {
-  padding-left: 1em;
+    padding-left: 1em; }
+
+.annotator-toolbar ul > li:before {
+      content: none !important;
+      /* en dash */
+      position: absolute;
+      margin-left: 0em !important; 
 }
- 
+
+.annotator-toolbar ul > li {
+    padding-left: 0em; } 
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
