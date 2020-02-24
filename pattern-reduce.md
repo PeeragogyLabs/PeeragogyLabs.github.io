@@ -123,6 +123,6 @@ Briefing: Johnathan was looking at Thinkhubub.  Lots of people online, you can r
 
 Schedule for 2PM and then we can pick this up. If it gets into the Calendar it can interpret it for any time.  This could be something that Jeff is interested in.
 
-Next time: We will watch a film from https://aru.ac.uk/people/shreepali-patel
+Next time: We will watch a film from https://aru.ac.uk/people/shreepali-patel - stay tuned for details.
 
 We can learn from the experiments that others are doing, by joining in.  Maybe more peeragogical to join in, and look at what the measures of success are?
