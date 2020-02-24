@@ -291,10 +291,21 @@ section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
 
-ul,ol { width: 45%;
+ul,ol { width: 50%;
      -webkit-padding-start: 5%;
      -webkit-padding-end: 5%;
      list-style-type: none; }
+
+ul > li:before {
+  content: "–"; /* en dash */
+  position: absolute;
+  margin-left: -1em;
+}
+
+ul > li {
+  padding-left: 1em;
+}
+ 
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 

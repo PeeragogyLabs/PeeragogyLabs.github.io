@@ -4,46 +4,51 @@
     <meta charset="utf-8" />
 
     <!-- metadata -->
-    <meta name="description" content="">
-    <meta name="keywords" content="Peeragogy, Handbook, peer-learning">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="The Peeragogy Handbook - Wiki">
-    <meta property="og:description" content="Peeragogy|version 3.0β5">
-    <meta property="og:url" content="http://peeragogy.org">
-    <meta property="og:site_name" content="Peeragogy.org">
+    <meta name="description" content=""/>
+    <meta name="keywords" content="Peeragogy, Handbook, peer-learning"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:title" content="The Peeragogy Handbook - Wiki"/>
+    <meta property="og:description" content="Peeragogy|version 3.0β5"/>
+    <meta property="og:url" content="http://peeragogy.org"/>
+    <meta property="og:site_name" content="Peeragogy.org"/>
 
     <!-- http://t.co/dKP3o1e -->
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="HandheldFriendly" content="True"/>
+    <meta name="MobileOptimized" content="320"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
     <!-- Type -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" type='text/css'>
-    <link rel="stylesheet" href="assets/css/entypo.css" media="all">
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css"  type="text/css">
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" type='text/css' /> -->
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" type='text/css'/> -->
+    <!-- <link rel="stylesheet" href="assets/css/entypo.css" media="all"/> -->
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/i.css" media="screen">
+    <!-- <link rel="stylesheet" href="css/font-awesome.min.css"  type="text/css"/> -->
+
+    <!-- <link rel="stylesheet" type="text/css" href="stylesheets/i.css" media="screen"/> -->
+
+    <link rel="stylesheet" type="text/css" href="css/tufte.css" media="screen"/>
 
     <!-- Javascript -->
-    <script async defer src="//hypothes.is/embed.js"></script>
+    <script async="async" defer="defer" src="https://hypothes.is/embed.js"></script>
     <script>window.hypothesisConfig=function(){return{showHighlights:true};}</script>
 
     <title>Wiki</title>
   </head>
 
   <body>
+    <div>
 
-    <!-- Custom headers. -->
-    
-    
+      <!-- Custom headers. -->
+      
+      
 
 <p>
-  <a href="../">« Back to Peeragogy.org</a>
+  <a href="http://peeragogy.org">« Back to Peeragogy.org</a>
 </p>
 
-    <div id="content">
-    <blockquote>
+      <!-- https://github.com/allejo/jekyll-anchor-headings -->
+      <div id="content">
+      <blockquote>
   <p>In the context of P2P-learning, a wiki platform can be a useful and
 powerful collaboration tool. This section will help you understand
 what a wiki is and what it is not, why you should use it, how to
@@ -51,8 +56,13 @@ choose a wiki engine and finally how you could use it in a P2P
 context. Some examples of P2P-learning projects run on wikis will help
 you see the potential of the tool.</p>
 </blockquote>
-
-<h2 id="what-is-a-wiki">What is a wiki?</h2>
+      <h2 id="what-is-a-wiki">
+        
+        
+          What is a wiki? <a href="#what-is-a-wiki"></a>
+        
+        
+      </h2>
 
 <p>For <a href="http://en.wikipedia.org/wiki/Ward_cunningham">Ward Cunningham</a>
 father of the wiki, “a wiki is a freely expandable collection of
@@ -64,36 +74,40 @@ with a forms-capable Web browser client” <span>[</span>1<span>]</span>.</p>
 modify, or delete its content via a web browser using a simplified
 markup language or a rich-text editor” <span>[</span>2<span>]</span>.</p>
 
-<p>You can watch this CommonCraft video <a href="http://www.youtube.com/watch?v=-dnL00TdmLY">wiki in plain
-english</a> to better
+<p>You can watch the CommonCraft video <a href="http://www.youtube.com/watch?v=-dnL00TdmLY">“Wikis in Plain
+English”</a> on YouTube to better
 understand what a wiki is.</p>
-
-<h2 id="what-differentiates-the-wiki-from-other-co-editing-tools">What differentiates the wiki from other co-editing tools?</h2>
+    
+      <h2 id="what-differentiates-the-wiki-from-other-co-editing-tools">
+        
+        
+          What differentiates the wiki from other co-editing tools? <a href="#what-differentiates-the-wiki-from-other-co-editing-tools"></a>
+        
+        
+      </h2>
 
 <p>The previous definitions show that a wiki is a “website,” in other words
-it is composed of pages that are connected together by hyperlinks.In
-additiont every authorized person (not all wikis are totally open like
+it is composed of pages that are connected together by hyperlinks. In
+addition, every authorized person (not all wikis are totally open like
 Wikipedia) can edit the pages from a web browser, reducing time and
-space constrains. In case one saves a mistake or for any other reason
+space constraints. In case one saves a mistake, or for any other reason,
 would like to go back to a previous version, a feature called “history”
-allows users to see previous versions and to roll back any of them. This
-version history allows also to compare versions avoiding the cluttered
-of the “commentaries rainbow” we are used too in popular Word
-processors. For example if you work on a wiki page, and come back later
-on, you will be able to catch up by comparing your last version with the
-lastest version of someone else.</p>
+allows users to see previous versions and to roll back to any of them. This
+version history allows a comparison of versions that avoids the clutter
+of the “commentaries rainbow” that we are used to in popular word
+processors. For example, if you work on a wiki page and come back later, you will be able to catch up by comparing your latest version with the lastest version generated by someone else.</p>
 
-<p>Tools like <a href="https://docs.google.com/">Google
-Docs</a> or <a href="http://en.wikipedia.org/wiki/Etherpad">Etherpad</a> are
+<p>Tools like <a href="https://docs.google.com/">Google
+Docs</a> or <a href="http://en.wikipedia.org/wiki/Etherpad">Etherpad</a> are
 design to enable co-editing on a single document. This can be seen as a
 “wiki way” of working on a document as it is web based and includes
 versioning. But it is not a wiki because a single document is not a
 website. Those tools offer realtime collaboration which wikis do not and
-are so far easier to use for beginners as they work
-in <a href="http://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG</a> mode, which many
-wikis do not support.  However, the advanced features <a href="http://en.wikipedia.org/wiki/Wiki_syntax">wiki markup
-language</a> make it a more
-powerful tool. In summary, tools like Googles Docs or Etherpad are a
+are far easier for beginners to use as they work
+in <a href="http://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG</a> mode, which many
+wikis do not support. However, the advanced features of the <a href="http://en.wikipedia.org/wiki/Wiki_syntax">wiki markup
+language</a> make it a more
+powerful tool. In summary, tools like Googles Docs or Etherpad are a
 great way to quickly collaborate (synchronously, asynchronously, or a
 mixture of both) on a single document for free, with a low barrier to
 entry and no technical support. (Note that Etherpad does have a
@@ -108,17 +122,17 @@ wiki reduces the coordination complication as e-mails exchanges are no
 more needed to coordinate a project. On the other hand it can help us
 deal with complexity (<span>[</span>3<span>]</span>,
 <span>[</span>4<span>]</span>) especially if you put basic simple rules
-in place like the Wikipedia’s <a href="http://en.wikipedia.org/wiki/NPOV">neutral point of
-view</a> to allow every participant to
+in place like the Wikipedia’s <a href="http://en.wikipedia.org/wiki/NPOV">neutral point of
+view</a> to allow every participant to
 share her or his ideas.</p>
 
 <p>Going back to the continuum we talked about before, some tools like
-Moodle, SharePoint, WordPress, Drupal or others have build in wiki
+Moodle, SharePoint, WordPress, Drupal and others have built-in wiki
 features. Those features can be good but will typically not be as good
 for wiki-building purposes as a well-developed special-purpose wiki
-engine. In other words, those tools main focus is not the wiki, which is
+engine. In other words, the main focus of those tools is not the wiki, which is
 only a secondary feature. When you choose a real wiki engine
-like <a href="http://www.mediawiki.org/">Mediawiki</a>, <a href="http://www.tiki.org/">Tiki</a>, <a href="http://foswiki.org/">Foswiki</a>,
+like <a href="http://www.mediawiki.org/">Mediawiki</a>, <a href="http://www.tiki.org/">Tiki</a>, <a href="http://foswiki.org/">Foswiki</a>,
 etc., the wiki will be your platform, not a feature of it. For example
 if you start a wiki activity in a Moodle course, this wiki will be only
 visible to a specific group of students and searchable only to those
@@ -128,17 +142,20 @@ permissions. We are not saying here that a wiki is better than other
 tools but if you need a wiki engine to address your needs you may
 consider going with a strong wiki engine rather than a “micro-wiki”
 engine embedded in an other tool.</p>
-
-<h2 id="why-use-a-wiki">Why use a wiki?</h2>
+    
+      <h2 id="why-use-a-wiki">
+        
+        
+          Why use a wiki? <a href="#why-use-a-wiki"></a>
+        
+        
+      </h2>
 
 <p>Those are the main reasons you should consider a wiki for your peer
 learning projects :</p>
 
 <ul>
-  <li>To reduce coordination complication by having a central and always
-up to date place to store your content. You will reduce e-mail usage
-drasticly, and have access to your content from everywhere using any
-operating system.</li>
+  <li>To reduce cumbersome coordination issues by having a central and continually updated place to store your content. You will reduce     e-mail usage drastically, and have access to your content from anywhere, using any operating system.</li>
   <li>To keep track of the evolution of your project and be able to view
 or roll back any previous version of a wiki page using the history
 feature.</li>
@@ -151,55 +168,66 @@ View), you will be able to catch more complexity as you will allow
 everyone to express his or her opinion. Wikis also integrate a forum
 or comment feature that will help you solve editing conflicts.</li>
   <li>To deal with work in progress. A wiki is a great tool to capture an
-on going work.</li>
-  <li>To support transparency by letting every members of the community
-see what others are doing.</li>
-  <li>To support a network structure as a wiki is by essence an horizontal
+ongoing work.</li>
+  <li>To support transparency by letting every member of the community
+see what all the others are doing.</li>
+  <li>To support a network structure; as a wiki is in essence a horizontal
 tool.</li>
 </ul>
 
 <p>Using a hyperlinks you can…</p>
 
 <blockquote>
-  <p><strong>Gérard Ayache</strong>:  “…jump by a single click from a network node to
-the other, from a computer to an other, from one information to the
-other, from one univers to the other, from one brain to the other.” 
+  <p><strong>Gérard Ayache</strong>: “… jump by a single click from one network node to
+another, from one computer to another, from one bit of information to the
+other, from one universe to another, from one brain to another.” 
 (Translated from <span>[</span>5<span>]</span>.)</p>
 </blockquote>
-
-<h2 id="how-to-choose-a-wiki-engine">How to choose a wiki engine?</h2>
+    
+      <h2 id="how-to-choose-a-wiki-engine">
+        
+        
+          How to choose a wiki engine? <a href="#how-to-choose-a-wiki-engine"></a>
+        
+        
+      </h2>
 
 <p>You will find more than a hundred different wiki engines.</p>
 
 <p>The first main distinction is between open source ones that are free to
 download and commercial ones you will have to pay for. You will find
-powerful engines on both sides open source and commercial. Sometimes the
-open source ones look less polished at first sight but are backed by a
-strong community and offer a lot of customization possibilities. The
-commercial are sold like a package, they are nicely presented but often
-they offer less customization on the user side and additional feature or
-custom made tools will cost you an extra fee.</p>
+powerful engines on both sides, both open-source and commercial. Sometimes, the
+open-source ones look less polished at first sight, but are backed by a
+strong community and offer a range of customization possibilities. The
+commercial wiki engines are sold as a package, nicely presented but often
+offering less customization on the user side. Additional features or
+custom-made tools will cost you extra.</p>
 
 <p>The second distinction that we can make is between wiki farms and
-self-hosted wikis. The <a href="http://en.wikipedia.org/wiki/Wiki_hosting_service">wiki
-farm</a> is a hosting
-service you can find for both open source or commercial wikis. The goal
+self-hosted wikis. The <a href="http://en.wikipedia.org/wiki/Wiki_hosting_service">wiki
+farm</a> is a hosting
+service you can find for both open-source or commercial wikis. The goal
 of those farms is to simplify the hosting of individual wikis. If you
-don’t want to choose a wiki farm hosting, you will have to host the wiki
+don’t want to choose wiki farm hosting, you will have to host the wiki
 on your own server. This will give you more latitude and data privacy
-but will require more technical skills and cost you maintenance fees.</p>
+but will require more technical skills and maintenance fees.</p>
 
-<p>The <a href="http://www.wikimatrix.org/">Wikimatrix</a> web site will help you
+<p>The <a href="http://www.wikimatrix.org/">Wikimatrix</a> web site will help you
 choose the best wiki for your needs. It allows you to compare the
 features of more than a hundred wiki
-engines. <a href="http://c2.com/cgi/wiki?TopTenWikiEngines">Here</a> is the top ten
-list of the best wiki engines by Ward Cunningham.</p>
+engines. Ward Cunningham’s list of the top 10 best wiki engines can be found on our <a href="http://c2.com/cgi/wiki?TopTenWikiEngines">Peeragogy.org</a> site.</p>
+    
+      <h2 id="how-can-a-wiki-be-useful-in-a-peeragogy-project">
+        
+        
+          How can a wiki be useful in a peeragogy project? <a href="#how-can-a-wiki-be-useful-in-a-peeragogy-project"></a>
+        
+        
+      </h2>
 
-<h2 id="how-can-a-wiki-be-useful-in-a-peeragogy-project">How can a wiki be useful in a peeragogy project?</h2>
-
-<p>A wiki is a good tool collaborative projects and a specially suited for
-work in progress as you can easily track changes using the history,
-compare those version and if necessary roll back a previous versions. In
+<p>A wiki is a good tool for collaborative projects and especially suited for
+work in progress, as you can easily track changes using the history,
+compare those versions and, if necessary, roll back to previous versions. In
 other words, nothing gets lost.</p>
 
 <p>Here are some ideas about how to use a wiki in a peeragogy project :</p>
@@ -215,30 +243,35 @@ participants or open it to the public
 like <a href="http://www.wikipedia.org/">Wikipedia</a>. Using hyperlinking, you
 will operationalize the theory
 of <a href="http://en.wikipedia.org/wiki/Connectivism">connectivism</a> by
-connecting nodes together. As a learning platform wikis are powerful
+connecting nodes together. As a learning platform, wikis are powerful
 because you can easily see what others are doing, share with them,
 get inspired, merge ideas or link to ideas. In other words, it
-creates emulation between learners. For additional ressources about
-wiki in education follow this
-Diigo <a href="http://www.diigo.com/user/regisb/wiki%20education">link</a>.</li>
+fosters emulation between learners. For additional resources about
+wikis in education, look on <a href="http://www.diigo.com/user/regisb/wiki%20education">Diigo</a>.</li>
   <li><strong>Manage your peeragogy project</strong>. A wiki is an excellent tool for
 project collaboration. Above all, the wiki can be a central place
 for peer learners to write or link to content. Even if you use
 several technologies to run your project as we did to write this
-handbook, at the end of the day, all the content can be centralized
-on a wiki using direct writing on wiki pages or hyperlinks. This way
-members can access the content from anywhere and from any device
-connected to the internet using any platform or application and they
+handbook, at the end of the day all the content can be centralized
+on a wiki using direct writing on wiki pages or embedding hyperlinks. This way,
+members can access the content from anywhere and from any device
+connected to the internet, using any platform or application. They 
 will always see the most recent version while being able to browse
-through the versions history to understand what has changed since
+through the version history to understand what has changed since
 their last visit.</li>
   <li><strong>Publish your project</strong>. As a wiki is a website you can easily use
 it to show your work to the world. Regarding web design, don’t
 forget that a wiki can look way better than a Wikipedia page if you
 customize it</li>
 </ul>
-
-<h2 id="examples-of-peeragogy-projects-run-on-wikis">Examples of peeragogy projects run on wikis</h2>
+    
+      <h2 id="examples-of-peeragogy-projects-run-on-wikis">
+        
+        
+          Examples of peeragogy projects run on wikis <a href="#examples-of-peeragogy-projects-run-on-wikis"></a>
+        
+        
+      </h2>
 
 <p><a href="http://www.appropedia.org/Welcome_to_Appropedia">Appropedia</a> is a wiki
 site for collaborative solutions
@@ -256,8 +289,14 @@ solutions.</p>
 <p><a href="http://en.wikipedia.org/wiki/Wikipedia:Teahouse">Teahouse</a> is a
 peeragogy project run on a wiki that gives newcomers a place to learn
 about Wikipedia culture and get feedback from experienced Wikipedians.</p>
-
-<h2 id="what-are-the-best-practices-when-using-a-wiki">What are the best practices when using a wiki?</h2>
+    
+      <h2 id="what-are-the-best-practices-when-using-a-wiki">
+        
+        
+          What are the best practices when using a wiki? <a href="#what-are-the-best-practices-when-using-a-wiki"></a>
+        
+        
+      </h2>
 
 <ul>
   <li><strong>Cofacilitation</strong> – help each other learn, help each other
@@ -272,8 +311,14 @@ brief descriptions of their edits</li>
 constraining creativity</li>
   <li><strong>Fun</strong> – make it fun for people to contribute</li>
 </ul>
-
-<h2 id="references">References</h2>
+    
+      <h2 id="references">
+        
+        
+          References <a href="#references"></a>
+        
+        
+      </h2>
 
 <ol>
   <li>
@@ -300,19 +345,18 @@ naturelle de l’hyperinformation. Paris: Milo, 284 p. p.179</p>
   </li>
 </ol>
 
+      </div>
 
+      <div id="default-footer">
+      <span style="font-size: 150%;float:left;margin-top:1cm;">
+      
+      Previous: <a href="./forums.html">« forums</a>  &nbsp; Next: <a href="./realtime.html">realtime »</a>
+      
+      </span> <!-- End of breadcrumb thingy -->
+
+      <span style="float:right;margin-right:100px;margin-top:1cm;line-height:31px;vertical-align:-80%;">Public Domain (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC-Zero</a>), 2012-2020&nbsp;<span style="vertical-align:0%;"><img width="10" src="./images/Cc.logo.circle.svg.png" alt="Logo of Creative Commons"/> <img width="10" src="./images/56px-Cc-zero.svg.png" alt="Logo of the Creative Commons Zero Public Domain Dedication license"/></span>
+      </span> <!-- End of rights statement -->
+      </div> <!-- End of footer -->
     </div>
-    
-    <div id="default-footer">
-    <span style="font-size: 150%;float:left">
-    
-    Previous: <a href="./forums.html">« forums</a>  &nbsp; Next: <a href="./realtime.html">realtime »</a>
-    
-    </span> <!-- End of breadcrumb thingy -->
-
-    <span style="float:right;margin-right:30px;line-height:31px;vertical-align:-80%;">Public Domain (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC-Zero</a>), 2012-2016&nbsp;<span style="vertical-align:0%;"><img width="10px" src="./images/Cc.logo.circle.svg.png"> <img width="10px" src="./images/56px-Cc-zero.svg.png"></span>
-    </span> <!-- End of rights statement -->
-    </div> <!-- End of footer -->
-
   </body>
 </html>

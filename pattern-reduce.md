@@ -37,7 +37,7 @@ have used off-the-shelf and hosted software suited to the task at hand
 pandoc, Github, ShareLaTeX). Early on we agreed to release our
 *Peeragogy Handbook* under the terms of the Creative Commons Public
 Domain Dedication (CC0), the legal instrument that grants the greatest
-possible leeway to downstream users.[^fn1]
+possible leeway to downstream users.<span class="marginnote"><https://creativecommons.org/publicdomain/zero/1.0/></span>
 This has allowed us and others to repurpose and improve its contents in
 other settings, including the current paper. Follow the steps indicated
 by the keywords in the pattern’s title:
@@ -48,18 +48,17 @@ by the keywords in the pattern’s title:
     going to have to do anyway” from everyone involved.
 -   *Recycle* what you’ve created in new connections and relationships.
 
-![image](images/Duchamp_Fountaine.jpg)  
-*A paradigmatic example of found-art. “Fountain by R. Mutt, Photograph by Alfred Stieglitz, THE EXHIBIT REFUSED BY THE INDEPENDENTS”.*
+{% marginfigure 'mf-id-whatever' 'images/Duchamp_Fountaine.jpg' '*A paradigmatic example of found-art. “Fountain by R. Mutt, Photograph by Alfred Stieglitz, THE EXHIBIT REFUSED BY THE INDEPENDENTS”.*' %}
 
 ### Rationale 
 
 Clearly we are not the first people to notice the problems with
 wheel-reinvention, including “missing opportunities, repeating common
-mistakes, and working harder than we need to.”[^fn2]
+mistakes, and working harder than we need to.”<span class="marginnote"><https://blog.wikimedia.org/2013/11/19/learning-patterns-new-way-share-important-lessons/></span>
 As a guest in one of our hangouts, Willow Brugh, of Geeks
 without Bounds and the MIT Media Lab, remarked that *people often think
 that they need to build a community, and so fail to recognize that they
-are already part of a community.*[^fn3]
+are already part of a community.*<span class="marginnote"><https://www.youtube.com/watch?v=NpyQfYVKfBI></span>
 converted our old pattern catalog from the *Peeragogy Handbook* into
 this paper, sharing it with a new community and gaining new
 perspectives; could we do something similar again?
@@ -79,16 +78,16 @@ capacity</span></span>.
 
 Contributors are encouraged to recycle existing works that are
 compatible with the Wikimedia-wide Creative Commons
-Attribution-ShareAlike (CC-By-SA) license.[^fn4]
+Attribution-ShareAlike (CC-By-SA) license.<span class="marginnote"><https://creativecommons.org/weblog/entry/15411/></span>
  Some sub-projects have been created purely to help
-repurpose other existing works in this way.[^fn5]
+repurpose other existing works in this way.<span class="marginnote"><https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/PlanetMath_Exchange></span>
 On the downstream side, DBPedia is an important resource
 for the semantic web, built by collating data from Wikipedia’s
-“infoboxes.”[^fn6]
+“infoboxes.”<label for="mn-demo" class="margin-toggle">&amp;#8853;</label>
+  <input type="checkbox" id="mn-demo" class="margin-toggle"/><span class="marginnote"><http://wiki.dbpedia.org/></span>
 themselves increasingly being populated automatically using information
-from WikiData.[^fn7]
-able to develop tools that reuse Wikipedia content in other ways <span
-class="citation">\[1,2\]</span>, However, these research projects do not
+from WikiData.<span class="marginnote"><https://www.wikidata.org/wiki/Wikidata:Main_Page></span>
+able to develop tools that reuse Wikipedia content in other ways.{% sidenote 'extensive-use-of-sidenotes' 'Silvan Reinhold. 2006. WikiTrails: Augmenting wiki structure for collaborative, interdisciplinary learning. *Proceedings of the 2006 International Symposium on Wikis*, ACM, 47–58.' %} {% sidenote 'ref2' 'Nathalie Henry Riche, Bongshin Lee, and Fanny Chevalier. 2010. IChase: Supporting exploration and awareness of editing activities on Wikipedia. *Proceedings of the International Conference on Advanced Visual Interfaces*, ACM, 59–66.' %} However, these research projects do not
 always result in a tool that is accessible to day-to-day users.
 
 ### Example 2 
@@ -127,27 +126,3 @@ Schedule for 2PM and then we can pick this up. If it gets into the Calendar it c
 Next time: We will watch a film from https://aru.ac.uk/people/shreepali-patel
 
 We can learn from the experiments that others are doing, by joining in.  Maybe more peeragogical to join in, and look at what the measures of success are?
-
-### References
-
-
-1. Silvan Reinhold. 2006. WikiTrails: Augmenting wiki structure for collaborative, interdisciplinary learning. *Proceedings of the 2006 International Symposium on Wikis*, ACM, 47–58.
-
-2. Nathalie Henry Riche, Bongshin Lee, and Fanny Chevalier. 2010. IChase: Supporting exploration and awareness of editing activities on Wikipedia. *Proceedings of the International Conference on Advanced Visual Interfaces*, ACM, 59–66.
-
-------------------------------------------------------------------------
-
-[^fn1]: <https://creativecommons.org/publicdomain/zero/1.0/>
-
-[^fn2]: <https://blog.wikimedia.org/2013/11/19/learning-patterns-new-way-share-important-lessons/>
-
-[^fn3]: <https://www.youtube.com/watch?v=NpyQfYVKfBI>
-
-[^fn4]: <https://creativecommons.org/weblog/entry/15411/>
-
-[^fn5]: <https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/PlanetMath_Exchange>
-
-[^fn6]: <http://wiki.dbpedia.org/>
-
-[^fn7]: <https://www.wikidata.org/wiki/Wikidata:Main_Page>
-
