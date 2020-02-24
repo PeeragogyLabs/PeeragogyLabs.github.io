@@ -62,7 +62,7 @@ access to knowledge-production <span class="citation">\[7,8\]</span>.
 A newcomer’s confusion about how best to get involved or what the point
 of all this actually is may be due to a lack of structure in the project
 <span><span>Roadmap</span></span>. Sharing vulnerability and confusion
-gives us a chance to learn.
+gives us a chance to learn. Also potential for lack of confidence to impact on newcomers willingness to contribute.
 
 ### Resolution 
 

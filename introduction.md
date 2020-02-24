@@ -2,66 +2,14 @@
 title: Introduction
 ---
 
-- Use the existing summaries to write a summary of the whole book
- - https://docs.google.com/document/d/1Zcsuvmky5cQmWlglO6lK1HYWsGR3xwlMePls-klLNZg/edit
-- Write a short version of the handbook, following the outline below - this can be the "starter pack"
-- Other outcomes including papers, pointers to citations of this stuff in the literature...
-- If you learn nothing else, what is one thing you can learn and use right away?
-- Add a list of translations to the introduction here (Charlie)
-
-Spanish
-
-Pedagogía de pares
-Paola Ricaurte Quijano
-http://www.editorialuoc.cat/educacion-medios-digitales-y-cultura-de-la-participacion
-
-Pedagogía de pares: «peeragogy», el procomún, laboratorios ciudadanos y cultura digital en abierto
-http://fernandosantamaria.com/blog/paragogia-pedagogia-de-los-pares-o-iguales/
-
-Pedagogía de pares y producción colectiva de conocimiento Artículo adaptado por el equipo de Pedagogía de pares para Wikipedia en el aula en conjunto con Educ.ar y WMAR. 
-https://cdn.educ.ar/dinamico/UnidadHtml__get__d840bf7a-c70e-4e9a-826c-9879acbf0d38/pdf/pedagogia_de_pares.pdf
-via https://www.educ.ar/recursos/129448/wikipedia-en-el-aula/fullscreen/fullscreen
-
-Italian 
-
-Handbook
-https://it.m.wikibooks.org/wiki/Peeragogia 
-
-Paragogy Paper
-https://web.archive.org/web/20121219234622/http://campus.ftacademy.org:80/community/mod/file/download.php?file_guid=12886
-
-French 
-
-Handbook 
-https://fr.m.wikibooks.org/wiki/Peeragogie_Manuel_V2 
-
-bahasa Indonesia
-
-Handbook
-https://id.wikibooks.org/wiki/Peeragogy_Handbook_V1.0
-
-Russian
-
-Paragogy Paper
-https://web.archive.org/web/20160306050517/http://www.connectedlearning.ru/home/ravnogogika/1st-paper
-
-# Pointer to Reading Group version:
-
-https://docs.google.com/document/d/1_qbPuPwy1ivK5hiID-W2iQngLWFgTkVHyDM8ANqoQeE/edit
- 
-# Old introduction
-
 > We live where no one knows the answer and the struggle is to figure
 > out the question. [1]
 
 Welcome to the *Peeragogy Handbook*! We want to kick things off with a
 candid confession: we’re not going to pretend that this book is perfect.
-In fact, it’s not an ordinary book at all.
-
-The adventure starts when you get out your pen or pencil, or mouse and keyboard,
-and begin marking it up. It gets kicked into high gear when you join
-*Peeragogy in Action*.
-
+In fact, it’s not an ordinary book at all. The adventure starts when you
+get out your pen or pencil, or mouse and keyboard, and begin marking it
+up. It gets kicked into high gear when you join *Peeragogy in Action*.
 You’ll find a lot of friendly support as you write, draw, or dance your
 own peeragogical adventure. But first, what is *peeragogy*?
 
@@ -96,12 +44,95 @@ We’re always interested in new use cases, tricky problems, and
 interesting questions. In fact, our view is that any question is a good
 question.
 
-In Section 4 of the book, in the Scrapbook pattern, we have a list of
-some of the ways in which the current edition of the Handbook is *not perfect*.
+Here are some of the ways in which the current edition of the Handbook
+is *not perfect*. You’re welcome to add to the list! These are
+places where you can jump in and get involved.  This list gives a
+sense of the challenges that we face putting peeragogy into action.
+
+# Scrapbook of Peeragogical Problems
+
+## Maintaining a list of useful resources 
+
+We include references and recommended reading in the *Handbook*, and
+there are a lot more links that have been shared in the *Peeragogy in
+Action* community.  It’s a ongoing task to catalog and improve these
+resources – including books, videos, images, projects, technology, etc.
+In short, let’s “Reduce, Reuse, Recycle”!  As a good start, Charlotte
+Pierce has been maintaining a spreadsheet under the heading “survey” in
+our Google Drive.
+
+##  Developing a really accessible DIY tool-kit 
+
+A short “workbook” containing interviews and some activities follows
+this introduction, but it could be much more interactive. Amanda Lyons
+and Paola Ricaurte made several new exercises and drawings that we could
+include. A more developed workbook could be split off from the handbook
+into a separate publication. It would be great to have something simple
+for onramping. For example, the workbook could be accompanied by video
+tutorials for new contributors.
+
+Paola Ricaurte points out that a really useful book will be easy to
+sell. For teachers interested in peeragogy, this needs to be something
+that can be use in workshops or on their own, to write in, to think
+through issues. We’re partway there, but to improve things, we really
+need a better set of activities.
+
+The next time Paola or someone else uses the handbook or workbook to run
+a workshop, she can say, “turn to this page, let’s answer this question,
+you have 10 minutes.” There are lots of places where the writing in the
+handbook could be made more interactive. One technique Paola and Amanda
+used was turning “statements” from the handbook into “questions.”
+
+## Crafting a visual identity 
+
+Amanda also put together the latest cover art, with some collaboration
+from Charlotte using inDesign. A more large-scale visual design would be
+a good goal for the 4th Edition of the book. Fabrizio Terzi, who made
+the handbook cover art for the 1st Edition, has been working on making
+our website more friendly. So, again, work is in progress but we could
+use your help.
+
+## Workflow for the 4th edition 
+
+We’ve uploaded the content of the book to Github and are editing the
+“live” version of the site in Markdown. For this and previous print
+editions, we’ve converted to LaTeX. There are a number of workflow
+bottlenecks: First, people need to be comfortable updating the content
+on the site. Second, it would be good to have more people involved with
+the technical editing work that goes into compiling for print. Remember,
+when we produce an actual physical handbook, we can sell it. In fact,
+because all co-authors have transferred their copyright in this book to
+the Public Domain, *anyone* can print and sell copies, convert the
+material into new interactive forms, or do just about anything with it.
+
+## Translations 
+
+Translating a book that’s continually being revised is pretty much a
+nightmare. With due respect to the valiant volunteer efforts that have
+been attempted so far, it might be more convenient for everyone involved to
+just pay professional translators or find a way to foster a multi-lingual
+authoring community, or find a way to create a more robust process of
+collective translation.  Ideas are welcome, and we're making some small
+steps here.  More on this below.
+
+## Next steps? What’s the future of the project? 
+
+In short: If we make the Handbook even more useful, then it will be no
+problem to sell more copies of it. That is one way to make money to
+cover future expenses. It’s a paradigmatic example for other business
+models we might use in the future. But even more important than a
+business model is a sense of our shared vision, which is why we’re
+working on a “Peeragogy Creed” (after the Taekwondo creed, which exists
+in various forms, one example is [2]). No
+doubt you’ll find the first version on peeragogy.org soon! Chapter
+[7](./distributed_roadmap.html) contains a further list of practical next
+steps for the project.
 
 ## References
+
 
 1.  Joshua Schimel, 2012. “Writing Science”, Oxford University Press.
 
 2.  Taekwondo Student Creed, World Martial Arts Academy,
     <http://www.worldtaekwondo.com/handbook.htm>
+

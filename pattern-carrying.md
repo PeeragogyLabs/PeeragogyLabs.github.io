@@ -109,7 +109,28 @@ least because this is a significant factor in boosting our .
 
 Making it easy and fruitful for others to get involved is one of the
 best ways to redistribute the load. This often requires knowledge
-transfer and skill development among those involved; see .
+transfer and skill development among those involved; see ....
+
+- Can the tools we use talk with each other?
+- 2 parallel Jitsi chats
+- Paola: If you have to teach this class to undergrads, what would be the product?
+
+Let's think about this relative to the outcomes of the course:
+
+"By the end of the course, students will be able to synthesize interventions relevant to global economic challenges. They will gain design and media production skills relevant to creating a Massive Open Online Course. It is expected that students will also train the affective dimensions of their engagement with difficult issues, by practicing rigorous self-assessment and developing constructive feedback for their peers. Specifically, students successfully completing the course will build a portfolio of evidence that they can receive major challenges with compassion, respond with an awareness of diverse needs, value others’ perspectives and voices, organize effective networks and strategies, and characterize constructive collaborative efforts and ways to support them."
+
+We can also define our own desired outcomes, and analyse what's our carrying capacity to complete the course and the project.
+Discussing today w/ CO-OP uni people. How will we work with the students on our courses?
+Paola is teaching a research methodology course, thinking about different kinds of outcomes that are not like the classic research report, but that are a bit creative.
+So they are thinking about what they want to do.  So, e.g., create something like an installation or a performance.
+
+Charlotte: How about clipping a successful/unsuccessful  outcome "moment" from a project? Identifying these moments and cataloging them sothey can be reproduced and re-used.
+- Identifying moments that demonstrate successful patterns and practices
+
+http://vieiro.github.io/xmark/
+
+- Tufte: layout to pull things
+- Sphinx: come up with their own creative learning outcome -- but the chapter itself is a bit hard to follow
 
 ### References
 

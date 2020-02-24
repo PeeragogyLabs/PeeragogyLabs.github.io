@@ -141,9 +141,9 @@ K-12 Peeragogy
 ### How to develop your PLN:
 
 -   [Degrees of Connected
-    Teaching](%20http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
+    Teaching](http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
     by Rodd Lucier
--   [TeachThought](%20http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
+-   [TeachThought](http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
 
 ### Theory & philosophy of connnected learning for classroom transformation:
 
@@ -200,9 +200,7 @@ Co-Facilitation
     Wikipedia](http://en.wikipedia.org/w/index.php?title=Wikipedia:Five_pillars&oldid=501472166),
     from Wikipedia
 
-10. *[Training the
-    Force](http://www.africom.mil/WO-NCO/DownloadCenter/%5C40Publications/Training%20the%20Force%20Manual.pdf)*
-    (2002) US Army Field Manual \#FM 7-0 (FM 25-100)
+10. *[Training the Force](http://www.africom.mil/WO-NCO/DownloadCenter/%5C40Publications/Training%20the%20Force%20Manual.pdf)* (2002) US Army Field Manual \#FM 7-0 (FM 25-100)
 
 11. [Learning Reimagined: Participatory, Peer, Global,
     Online](http://dmlcentral.net/blog/howard-rheingold/learning-reimagined-participatory-peer-global-online),
@@ -232,7 +230,7 @@ Co-Facilitation
     by Everywoman’s Center, University of Massachussetts
 
 18. “[Teaching smart people how to
-    learn](www.ncsu.edu/park_scholarships/pdf/chris_argyris_learning.pdf?)”
+    learn](https://www.ncsu.edu/park_scholarships/pdf/chris_argyris_learning.pdf)”
     by Chris Argyris, Harvard Business Review 69.3, 1991; also published
     in expanded form as a
     [book](http://www.amazon.com/Teaching-People-Harvard-Business-Classics/dp/1422126005)
@@ -382,7 +380,7 @@ Connectivism in Practice — How to Organize a MOOC (Massive Open Online Class)
 5.  [gRSShopper](http://grsshopper.downes.ca/index.html)
 
 6.  [Connectivism: A Learning Theory for the Digital
-    Age](%20http://www.elearnspace.org/Articles/connectivism.htm) by
+    Age](http://www.elearnspace.org/Articles/connectivism.htm) by
     George Siemens
 
 7.  [A Connectivism

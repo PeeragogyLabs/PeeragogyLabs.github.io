@@ -107,6 +107,27 @@ Are there other educational resources and peeragogical case studies that
 we could fold into our work? Can we recycle material from the *Peeragogy
 Handbook* into a format that is easier to understand and apply?
 
+- Examples of the hairdressers and rowing club folks: this doesn't exist in a vacuum. 
+- Is there anything new here...?  Well, we are distilling what exists in the raw materials?
+- Chris: With the pattern of Heartbeat, that has chimed with the Co-Operative university in terms of, where people are co-producing things, how to keep the momentum going.
+- Charlotte: this happens a lot in my projects.
+- Chris: Quite an interesting discussion, I liked what Lisa was saying about different beats for different contexts.  Almost having to fit a pacemaker.
+- Charlotte: With the concert series, I would like to hand it over to someone else, but it's a bridge too far to document that and help people become stakeholders.
+- ACMi, they have problems - he is really good at revving people up about projects, and showing them what they can gain from a completed project.
+- E.g., I stared this studio production for publishing.  But it was too complicated to bring elements together.  Motivating volunteers, getting a core of volunteers that overlap.  So you can produce things at any point in time.
+- Livestreaming is super easy!  It wasn't perfect because the people were on the beach with their phone.   But it is easy!  
+- Is added value of TV station to make it more perfect, with better production values.  But it has way less volume, because you can't mount one every week.
+- Chris: Stew and Cake: Livestream is a stew, everyone can contribute.  But a TV recording is much more of a cake, you need to plan the ingredients, bake it at a certain temperature.
+- Cake mix, reheated curry, etc., it may not have everything you want.
+
+Briefing: Johnathan was looking at Thinkhubub.  Lots of people online, you can react to the comments, the film maker can be online, maybe some from Co-Op group. The film is about the impact of modern slavery. It's kind of geared around co-production and responding to some of the material in a flipped manner.  Can continue the conversation elsewhere?
+
+Schedule for 2PM and then we can pick this up. If it gets into the Calendar it can interpret it for any time.  This could be something that Jeff is interested in.
+
+Next time: We will watch a film from https://aru.ac.uk/people/shreepali-patel
+
+We can learn from the experiments that others are doing, by joining in.  Maybe more peeragogical to join in, and look at what the measures of success are?
+
 ### References
 
 
